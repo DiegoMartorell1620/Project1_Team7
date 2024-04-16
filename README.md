@@ -26,7 +26,8 @@ To execute the program, ensure you have installed Anaconda and have access to ei
 
 Otherwise, you will need Python installed which can be found here: https://www.python.org/downloads/
 
-Then, you can clone the repository to your local. This can be done through the command git clone < https://github.com/DiegoMartorell1620/Project1_Team7.git >
+Then, you can clone the repository to your local. 
+This can be done through the command: git clone < https://github.com/DiegoMartorell1620/Project1_Team7.git >
 
 Using GitBash or Command Prompt, you can change the directory to the folder containing this project, then you can cd into the project directory. To do: cd <project_directory>
 
