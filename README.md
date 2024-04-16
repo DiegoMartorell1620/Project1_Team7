@@ -42,9 +42,9 @@ If you cannot see any servers running you can type http://localhost:8888/ in the
 
  # Authors
 
-Anna Mane
-Diego Alonso Martorell Moreau
-Gedlegeorgis Gobezie Geda
+Anna Mane, 
+Diego Alonso Martorell Moreau, 
+Gedlegeorgis Gobezie Geda, 
 Sultan Raheem
 
 # Version History
