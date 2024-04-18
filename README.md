@@ -48,10 +48,6 @@ Diego Alonso Martorell Moreau,
 Gedlegeorgis Gobezie Geda, 
 Sultan Raheem
 
-# Version History
-
-# License
-
 # Complete Work Cited
 
 https://stackoverflow.com/questions/51621615/which-geopandas-datasets-maps-are-available
