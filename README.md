@@ -1,4 +1,4 @@
-# Project1_Team7
+# Project 1 | Team 7
 
 # Project Title
 
